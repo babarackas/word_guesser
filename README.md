@@ -4,6 +4,6 @@
 The winnings calculations and total wrong were done by me.*/
 
 I haven't figured out how to add up the wrong guesses and then stop the program.  
-Perhaps this could be done with a do while loop but my programming skill aren't up to it quite yet. 
+Perhaps this could be done with a do while loop but my programming skills aren't up to it quite yet. 
 
 
